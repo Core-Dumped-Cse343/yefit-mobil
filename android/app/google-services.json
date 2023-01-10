@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652685712618",
+    "project_id": "yefir---producti",
+    "storage_bucket": "yefir---producti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652685712618:android:aa881815e20f3b5ccb8b93",
+        "android_client_info": {
+          "package_name": "com.example.flutdeneme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652685712618-v54s4jqbp7b1gh04869es1ef480n31v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImbe6OVUwRvKaj5uZDzZrXMwS34zu-Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652685712618-v54s4jqbp7b1gh04869es1ef480n31v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
